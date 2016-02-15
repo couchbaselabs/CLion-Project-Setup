@@ -17,6 +17,7 @@
     <mapping directory="$PROJECT_DIR$/moxi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ns_server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/query-ui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sigar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/subjson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/testrunner" vcs="Git" />

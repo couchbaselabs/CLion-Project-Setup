@@ -4,22 +4,16 @@
     <mapping directory="$PROJECT_DIR$/.idea" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.repo/manifests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.repo/repo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/couchbase-cli" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/couchbase-examples" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/couchbase-python-client" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/couchdb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/couchstore" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ep-engine" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/forestdb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/geocouch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googletest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gtest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/memcached" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/moxi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ns_server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/platform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sigar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/subjson" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/testrunner" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tlm" vcs="Git" />
   </component>
 </project>
